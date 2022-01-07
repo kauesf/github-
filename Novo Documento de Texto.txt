@@ -10,3 +10,5 @@
 7-agora pelo cmd
 8-git status - para verificar se modificou algo
 9-"git add ." dar espaços entre add eo ponto
+10- git commit -m " commit nome do que vc fez no código " 
+11- git push - para enviar ao github
