@@ -1,0 +1,9 @@
+1- Criar pasta para o projeto
+
+2- Entrar na pasta, na URL digitar CMD
+3- Iniciar o repositorio dentro dela com " git init " 
+
+4- adicionar o repositório no githubdesktop " lado superior esquerdo em file/ Add local repository 
+
+5- primeiro commit no repositório Local
+6- mandar para github
