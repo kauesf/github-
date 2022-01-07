@@ -7,3 +7,6 @@
 
 5- primeiro commit no repositório Local
 6- mandar para github
+7-agora pelo cmd
+8-git status - para verificar se modificou algo
+9-"git add ." dar espaços entre add eo ponto
